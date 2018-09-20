@@ -3,14 +3,14 @@ body {
 }
 
 h1 {
-    color: green;
-    text-align: left;
+    color: white;
+    text-align: Centre;
 }
 
 p {
     font-family: verdana;
     font-size: 20px;
-    text-align: right;
+    text-align: Left;
 }
 
 p1 {
